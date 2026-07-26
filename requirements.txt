@@ -1,0 +1,6 @@
+jmetalpy==1.7.0
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
